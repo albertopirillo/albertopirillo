@@ -1,4 +1,4 @@
-<img src="banner.png" width="850"/>
+<img src="banner.png" width="846.031"/>
 
 <!--**albertopirillo/albertopirillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
