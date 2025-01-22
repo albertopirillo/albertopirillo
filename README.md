@@ -3,13 +3,10 @@
 ## Data Scientist | AI Engineer
 I am a Data Scientist in the Artificial Intelligence & Advanced Analytics division at Engineering Group, where I contribute to the development of the proprietary Large Language Model (LLM) EngGPT, together with the design and the deployment of custom-tailored ML, AI, and GenAI solutions for several important clients.
 
-Previously, I worked as a researcher at the Department of Electronics, Informatics, and Bioengineering (DEIB) at Politecnico di Milano. During this time, I authored two research papers on integer-only deep neural network architectures and privacy-preserving deep learning, which were submitted to top-level conferences and marked novel contributions to the scientific literature. 
-
 - 🌍  I'm based in Milan, Italy
 - 🔭 I’m currently working on Large Language Models (LLMs)
 - 🌱 I’m currently learning Generative AI
 - 📫 Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/alberto-pirillo/)
-
 
 <a href="https://www.github.com/albertopirillo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/albertopirillo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -18,6 +15,8 @@ Previously, I worked as a researcher at the Department of Electronics, Informati
 <a href="https://www.github.com/albertopirillo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/stars/albertopirillo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+
+
 
 ### Skills
 <p align="left">
@@ -52,14 +51,15 @@ Previously, I worked as a researcher at the Department of Electronics, Informati
 
 <h2></h2>
 
+<!--
 ### GitHub Stats
-
-<!-- Activity graph -->
+<!-- Activity graph 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albertopirillo&custom_title=Alberto%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="My Github Activity Graph" width="100%">
 </div>
 
 <h2></h2>
+-->
 
 <!-- Trophies -->
 <div align="center">
@@ -67,6 +67,7 @@ Previously, I worked as a researcher at the Department of Electronics, Informati
 </div>
 
 <h2></h2>
+
 
 <!--
 ### Support Me
